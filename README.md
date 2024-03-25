@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alessandra</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <h3 align="center">I am passionate about web development, graphic design and digital marketing. 
+  <br>
 I aspire to create websites that grasp the attention or the users.
-I have a curious mind and a determined will, I constantly strive to learn and deepen my skills. 
+    <br>
+I have a curious mind, I constantly strive to learn and deepen my skills. 
+    <br>
 I make sure to be updated with the latest tech news and new social trends that nurture my creativity and knowledge. </h3>
 
 - 🌱 I’m currently learning **freeCodeCamp's Responsive Web Design course to polish my knowledge and improve my current skills **
