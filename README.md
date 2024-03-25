@@ -10,7 +10,7 @@ I make sure to be updated with the latest tech news and new social trends that n
 
 - 🌱 I’m currently learning **freeCodeCamp's Responsive Web Design course to polish my knowledge and improve my current skills **
 
-- 🌱 I’m planning to lear **React,Framer,Spline**
+- 🌱 I’m planning to learn **React,Framer,Spline**
 
 - 📫 How to reach me **DM me in Linkedin! https://www.linkedin.com/in/alevdg-frontdev/**
 
